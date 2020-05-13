@@ -12,6 +12,7 @@ body {
 
 .title {
     text-shadow: 1px 1px 4px #000000;
+    margin-bottom: -50px;
 }
 
 h1 {
@@ -33,6 +34,7 @@ hr {
 }
 
 .month {
+    margin: 100px;
     border-style: solid;
     padding: 40px;
     box-shadow: 20px 20px 10px grey
